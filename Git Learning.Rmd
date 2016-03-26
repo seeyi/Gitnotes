@@ -9,7 +9,8 @@ output: html_document
 2. "git config --global user.email "email" " 设置邮箱
 3. "git config --list" list all of the settings
 4. "clear" clean the screen
-5. "git help"
+5. "git help"  
+
 ## Git Tutorial - 3 - Creating Our First Repository
 1. "pwd" 显示工作路径  
 2. "cd .." 返回上级工作路径  
@@ -32,8 +33,8 @@ output: html_document
 ## Git Tutorial - 9 - Comparing the Staging Area with the Repository
 1. "git diff --staged" show the difference between staging area and repository  
 
-## Git Tutorial - 10 - How to Delete Files
-1."git rm xxx.txt" remove xxx.txt files  
+## Git Tutorial - 10 - How to Delete Files  
+1. "git rm xxx.txt" remove xxx.txt files  
 
 ## Git Tutorial - 11 - How to Move and Rename Files  
 1. "git mv xxx.txt yyy.txt" renamed xxx.txt to yyy.txt
